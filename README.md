@@ -24,4 +24,6 @@
   2. New Tests for new code added, to create and update
   3. New Tests for existing method to login
   4. Unit and Integration tests written separately
+  5. Should  be production quality code
+  6. We will look for java coding standards, best practices etc
  
